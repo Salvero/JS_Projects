@@ -1,3 +1,5 @@
-# Javascript Projects
+# New Javascript Projects
 
-Fun projects Everyday
+Fun projects everyday
+
+
