@@ -1,3 +1,3 @@
-# JS_Projects
+# Javascript Projects
 
 Fun projects Everyday
